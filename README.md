@@ -7,4 +7,6 @@ Run following codes in CLI:
  >> streamlit run app.py
  
  Screenshot:
+ 
+ 
  ![](project_ss.PNG)
