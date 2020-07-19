@@ -4,7 +4,7 @@ Inspired From DeepLearning Playground by Google, simillar kind of application wh
 
 Run following codes in CLI:
 
-cd <location of ur app>
+cd 'location of ur app'
 
 streamlit run app.py
  
